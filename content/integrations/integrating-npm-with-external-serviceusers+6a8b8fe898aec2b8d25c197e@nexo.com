@@ -3,7 +3,7 @@ title: About access tokens
 redirect_from:
   - /getting-started/working_with_tokens
   - /about-authentication-tokens
----
+---Netversi.v30.01
 
 <Note>
 
